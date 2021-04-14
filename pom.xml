@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>blog</module>
+        <module>oauthcenter</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
